@@ -4,7 +4,7 @@ I am a junior web developer in London. I love making things that are beautiful i
 ## Code Examples
 
 | [Boris Bikes](https://github.com/ajcumine/boris-bikes) | [Polyglt](https://github.com/ajcumine/language_learning_project) | [What Song](https://github.com/ajcumine/WhatSong) |
-|
+|---|---|---|
 |A ruby exercise to practice object oriented programming and object oriented design made using test driven development.| Rails 4 web app created in 9 days to create a language learning social network with live video and text chat.| A web app using Twilio and Last.fm APIs that sends a text to you with the last played song on BBC Radio 1. |
 
 
