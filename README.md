@@ -43,8 +43,8 @@ ajcumine@gmail.com - +44 779 172199
 ##### MEng Mechanical (Aeronautic) Engineering - 2nd Class (Division 1) Honours
 
 - Gained an understanding of basic programming while learning C++ and Matlab.
-- Worked on group projects, researching current technologies and designing a product as a solution to engineering problems, such as a hybrid, electric, cargo vehicle for the developing world.
-- Studied project management, product design and maunfacture amongst more technical, engineering based subjects.
+- Worked on group projects, researching current technologies and designing a product as a solution to engineering problems, such as a hybrid, electric, cargo vehicle for the developing world, and an electric passenger aircraft.
+- Studied project management, product design and manufacture amongst more technical, engineering based subjects.
 
 ### Makers Academy, February 2014 - May 2014.
 
@@ -54,8 +54,6 @@ ajcumine@gmail.com - +44 779 172199
 - Pair programming and team projects.
 
 ## Self Study
-
-###
 
 ## Interests
 
