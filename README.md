@@ -8,6 +8,8 @@ ajcumine@gmail.com - +44 779 172199
 
 #### BSkyB - Sky Help, August 2014 - November 2014.
 
+- Ruby, Rails, React, Livescript, Ansible, Vagrant, CircleCI, Heroku.
+
 #### Fortnum & Mason - Food Awards, November 2014 - December 2014, November 2015 - December 2015.
 
 #### Fortnum & Mason - Ecommerce, December 2014 - June 2015, August 2016 - March 2017, July 2018 - October 2018.
@@ -35,6 +37,8 @@ ajcumine@gmail.com - +44 779 172199
 #### Fidelity - Outlook, January 2019 - March 2019.
 
 #### PagoFx - Operations, July 2019 - present.
+
+- Typescript, React, Docker, Postgres, Buildkite, Google Cloud Platform, Monorepo.
 
 ## Education
 
