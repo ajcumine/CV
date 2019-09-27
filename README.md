@@ -8,25 +8,33 @@ ajcumine@gmail.com - +44 779 172199
 
 #### BSkyB - Sky Help, August 2014 - November 2014.
 
+#### Fortnum & Mason - Food Awards, November 2014 - December 2014, November 2015 - December 2015.
+
 #### Fortnum & Mason - Ecommerce, December 2014 - June 2015, August 2016 - March 2017, July 2018 - October 2018.
 
-#### Fortnum & Mason - Food Awards, November 2014 - December 2014, November 2015 - December 2015.
+#### Red Badger - Badger Academy, July 2015 - August 2015.
+
+#### Red Badger - Badger Time, September 2015 - October 2015.
+
+#### Fortnum & Mason - Jermyn Street, October 2015.
 
 #### CarTrawler - CMS, December 2015 - July 2016.
 
 #### CarTrawler - My Account, June 2016 - September 2016.
 
-#### Fidelity - Institutional, December 2017 - February 2018.
+#### ASOS - My Account, April 2017 - September 2017.
 
-#### Fidelity - Outlook, January 2019 - March 2019.
+#### Santander - International Payments, September 2017 - December 2017.
+
+#### Fidelity - Institutional, December 2017 - February 2018.
 
 #### Santander - Open Banking, February 2018 - May 2018.
 
-#### Santander -
+#### Red Badger - Website, June 2018 - July 2018.
 
-#### PagoFx - Operations,
+#### Fidelity - Outlook, January 2019 - March 2019.
 
-#### ASOS - My Account,
+#### PagoFx - Operations, July 2019 - present.
 
 ## Education
 
