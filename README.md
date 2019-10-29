@@ -8,23 +8,37 @@ ajcumine@gmail.com - +44 779 172199
 
 #### BSkyB - Sky Help, August 2014 - November 2014.
 
-- Ruby, Rails, React, Livescript, Ansible, Vagrant, CircleCI, Heroku.
+- Ruby, Rails, Rspec, Redis, React, Livescript, Ansible, Vagrant, CircleCI, Heroku, GitHub.
 
 #### Fortnum & Mason - Food Awards, November 2014 - December 2014, November 2015 - December 2015.
 
+- Livescript, React, Gulp, Docker, PostgreSQL, AWS, Elasticbeanstalk, CircleCI.
+
 #### Fortnum & Mason - Ecommerce, December 2014 - June 2015, August 2016 - March 2017, July 2018 - October 2018.
+
+- Ruby, Rails, React, Redux, Livescript, Flow, ES6, Redis, PostgreSQL, Spree Commerce, Elasticsearch, AWS, CircleCI, Buildkite, Terraform.
 
 #### Red Badger - Badger Academy, July 2015 - August 2015.
 
+- Ruby, Rails, Thin, PostgreSQL, Rubocop, Rspec, Node, React, Webpack, Babel, ESLint, Sass, Mocha, Chai, CircleCI, Heroku
+
 #### Red Badger - Badger Time, September 2015 - October 2015.
 
+- Ruby, Rails, Rubocop, Rspec, PostgreSQL, CircleCI
+
 #### Fortnum & Mason - Jermyn Street, October 2015.
+
+- React, Babel, Webpack, CircleCI
 
 #### CarTrawler - CMS, December 2015 - July 2016.
 
 #### CarTrawler - My Account, June 2016 - September 2016.
 
+- Serverless, AWS, Flow, Node, Babel, Webpack.
+
 #### ASOS - My Account, April 2017 - September 2017.
+
+- Node, React, Redux, Webpack, Babel, Flow/Typescript, JenkinsCI.
 
 #### Santander - International Payments, September 2017 - December 2017.
 
@@ -38,7 +52,7 @@ ajcumine@gmail.com - +44 779 172199
 
 #### PagoFx - Operations, July 2019 - present.
 
-- Typescript, React, Docker, Postgres, Buildkite, Google Cloud Platform, Monorepo.
+- Typescript, React, Redux, Docker, PostgreSQL, Kubernetes, Terraform, Buildkite, Google Cloud Platform, GitHub, Jira, Confluence, Monorepo.
 
 ## Education
 
