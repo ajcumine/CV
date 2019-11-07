@@ -68,9 +68,23 @@ User account and loyalty application for CarTrawler.
 
 #### ASOS - My Account, April 2017 - September 2017.
 
-- Node, React, Redux, Webpack, Babel, Flow/Typescript, JenkinsCI.
+- Node, React, Redux, Webpack, Babel, PactJS, Teamcity, Azure.
+
+My account application for ASOS.com to integrate into the existing .NET platform.
+
+Highlights include:
+
+- cross functional team working on meeting high levels of accessibility across the site
+- successful delivery of a project despite tight delivery deadline
+- multi-language support across all copy
+- working with multiple ASOS API teams using Pact tests to allow building of UI based on defined API contracts
+- online returns functionality
 
 #### Santander - International Payments, September 2017 - December 2017.
+
+- Node, Yarn, Webpack, Babel, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Puppeteer, Jenkins, Docker, Openshift, Monorepo.
+
+Online International Payments application for Santander UK. Business structure changes ended up cancelling this project just as it was starting to deliver value, however great steps were made in introducing a modern node/javascript application to the client business. A focus on user experience, accessibility and cross functional, agile teams was championed across the project. This helped Red Badger secure more work with Santander as an organisation.
 
 #### Fidelity - Institutional, December 2017 - February 2018.
 
