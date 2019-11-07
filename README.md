@@ -117,6 +117,30 @@ Online International Payments application for Santander UK. Business structure c
 
 ## Self Study
 
+#### Docker
+
+docker workshop at strange loop conf
+
+#### Machine Learning
+
+ruby machine learning
+
+#### Elixir
+
+elixir machine learning
+
+#### Elm
+
+pokelm
+
+#### Line Management
+
+training course and working group
+
+#### Mentoring
+
+training course
+
 ## Interests
 
 - Hockey
