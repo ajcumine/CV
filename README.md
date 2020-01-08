@@ -31,16 +31,18 @@ Ecommerce platform for Fortnum & Mason (fortnumandmason.com). New build of Fortn
 
 Highlights include:
 
-- Microsoft AX/D365 integration and crossover
-- a custom content management system (CMS) including versioning and live preview
-- Elasticsearch based product search and listing
 - full site rebranding and redesign
+- a custom content management system (CMS) including versioning and live preview
+- Microsoft AX/D365 integration and crossover
+- Elasticsearch based product search and listing
 - build your own hamper feature
 - GDPR right to erasure
 
 #### Red Badger - Badger Academy, July 2015 - August 2015.
 
 - Ruby, Rails, Thin, PostgreSQL, Rubocop, Rspec, Node, React, Webpack, Babel, ESLint, Sass, Mocha, Chai, CircleCI, Heroku.
+
+6 week project teaching interns how to develop a product in a modern technology company. Topics taught included, agile/kanban methodolgies and processes, test-driven development, mobile first design, accessibility requirements and browser support.
 
 #### Red Badger - Badger Time, September 2015 - October 2015.
 
@@ -52,7 +54,7 @@ Review, testing, and production preparation of an internal time/book keeping pro
 
 - React, Babel, Webpack, CircleCI
 
-Microsite for Fortnum & Mason's restaurant 45 Jermyn Street. Aiming to build a new brand awareness for the restaurant seperate from Fortnum & Mason's own brand but still inkeeping with the quality and experience of a Fortnum & Mason product.
+Microsite for Fortnum & Mason's restaurant 45 Jermyn Street. Aiming to build a new brand awareness for the restaurant separate from Fortnum & Mason's own brand but still inkeeping with the quality and experience of a Fortnum & Mason product.
 
 #### CarTrawler - CMS, December 2015 - July 2016.
 
@@ -64,7 +66,14 @@ Content management system (CMS) for CarTrawler.
 
 - Serverless, AWS, AWS Lambda, DynamoDB, Auth0, Elasticsearch, Logstash, CirlceCI Node, Babel, Webpack, Flow, Mori, React, Redux, Mocha, Enzyme, Chai.
 
-User account and loyalty application for CarTrawler.
+User account and loyalty application for CarTrawler and it's microsites (HolidayAutos etc).
+
+Highlights include:
+
+- serverless architecture
+- functional lambda functions
+- integration with multiple microsites
+
 
 #### ASOS - My Account, April 2017 - September 2017.
 
@@ -76,7 +85,7 @@ Highlights include:
 
 - cross functional team working on meeting high levels of accessibility across the site
 - successful delivery of a project despite tight delivery deadline
-- multi-language support across all copy
+- multi-language support
 - working with multiple ASOS API teams using Pact tests to allow building of UI based on defined API contracts
 - online returns functionality
 
@@ -118,8 +127,8 @@ Online International Payments application for Santander UK. Business structure c
 ## Self Study
 
 #### Docker
-
-docker workshop at strange loop conf
+[Deploying and Scaling Applications with Docker](https://www.thestrangeloop.com/2016/deploying-and-scaling-applications-with-docker.html)
+Docker workshop focussing on compose and swarm docker functionality to scale applications based on performance requirements to achieve high availability.
 
 #### Machine Learning
 
@@ -134,12 +143,16 @@ elixir machine learning
 pokelm
 
 #### Line Management
+Line Management - Aspire
 
-training course and working group
+Red Badger Line Management Working Group
 
 #### Mentoring
+Effective Mentoring - The Centre
 
-training course
+Red Badger Academy
+
+Red Badger Mentoring Initiative
 
 ## Interests
 
