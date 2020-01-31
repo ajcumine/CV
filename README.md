@@ -2,13 +2,18 @@
 
 ajcumine@gmail.com - +44 779 172199
 
+## Skills
+The following is a list of technologies I have used professionally:
+
+Ansible, AWS, Azure, Babel, Buildkite, CircleCI, CSS, CSS-in-JS, Docker, DynamoDB, Elasticsearch, Enzyme, ES6, Flow, Google Cloud Platform, Gulp, Heroku, HTML, Javascript, Jest, Kubernetes, Lodash, Mocha, Mori, Node, PactJS, PostgreSQL, Prettier, Puppeteer, Rails, Ramda, React, Redis, Redux, Rspec, Rubocop, Ruby, Sass, Serverless, Teamcity, Terraform, Thin, Typescript, TSLint, Vagrant, Webpack, Yarn.
+
 ## Work Experience
 
 ### Red Badger Consulting Ltd, June 2014 - present.
 
 #### BSkyB - Sky Help, August 2014 - November 2014.
 
-- Ruby, Rails, Rspec, Redis, React, Livescript, Ansible, Vagrant, CircleCI, Heroku, GitHub.
+- Ruby, Rails, Rspec, Redis, React, Livescript, Ansible, Vagrant, CircleCI, Heroku.
 
 New build of help site for help.sky.com focussing on decreasing customer call centre calls through easier navigation and search of existing help topics.
 
@@ -23,15 +28,15 @@ Highlights include:
 
 Microsite for Fortnum & Mason's annual Food and Drink awards. Both years projects where built under limited time and cost constraints, requiring a speedy build but still enkeeping with the quality expected from a Fortnum & Mason experience.
 
-#### Fortnum & Mason - Ecommerce, December 2014 - June 2015, August 2016 - March 2017, July 2018 - October 2018.
+#### [Fortnum & Mason - Ecommerce](https://www.fortnumandmason.com/), December 2014 - June 2015, August 2016 - March 2017, July 2018 - October 2018.
 
 - Ruby, Rails, React, Redux, Livescript, Flow, ES6, Redis, PostgreSQL, Spree Commerce, Elasticsearch, AWS, CircleCI, Buildkite, Terraform.
 
-Ecommerce platform for Fortnum & Mason (fortnumandmason.com). New build of Fortnum & Mason's online shopping experience which provided year on year online sales increases. Direct integration into Fortnum's Microsoft Dynamics AX and later conversion to D365 CRM systems.
+Ecommerce platform for [Fortnum & Mason](https://www.fortnumandmason.com/). New build of Fortnum & Mason's online shopping experience which provided year on year online sales increases. Direct integration into Fortnum's Microsoft Dynamics AX and later conversion to D365 CRM systems.
 
 Highlights include:
 
-- full site rebranding and redesign
+- full site new build, rebranding, and redesign
 - a custom content management system (CMS) including versioning and live preview
 - Microsoft AX/D365 integration and crossover
 - Elasticsearch based product search and listing
@@ -50,28 +55,28 @@ Highlights include:
 
 Review, testing, and production preparation of an internal time/book keeping product.
 
-#### Fortnum & Mason - Jermyn Street, October 2015.
+#### [Fortnum & Mason - Jermyn Street](https://45jermynst.com/), October 2015.
 
 - React, Babel, Webpack, CircleCI
 
-Microsite for Fortnum & Mason's restaurant 45 Jermyn Street. Aiming to build a new brand awareness for the restaurant separate from Fortnum & Mason's own brand but still inkeeping with the quality and experience of a Fortnum & Mason product.
+Microsite for Fortnum & Mason's restaurant [45 Jermyn Street](https://45jermynst.com/). Aiming to build a new brand awareness for the restaurant separate from Fortnum & Mason's own brand but still inkeeping with the quality and experience of a Fortnum & Mason product.
 
 #### CarTrawler - CMS, December 2015 - July 2016.
 
 - Docker, CircleCI, Node, Webpack, React, Redux, Flow, Babel, ESLint, Mocha.
 
-Content management system (CMS) for CarTrawler.
+Content management system (CMS) for CarTrawler, managing content for both [HolidayAutos](https://www.holidayautos.com/) and [Argus Car Hire](https://www.arguscarhire.com/).
 
 #### CarTrawler - My Account, June 2016 - September 2016.
 
 - Serverless, AWS, AWS Lambda, DynamoDB, Auth0, Elasticsearch, Logstash, CirlceCI Node, Babel, Webpack, Flow, Mori, React, Redux, Mocha, Enzyme, Chai.
 
-User account and loyalty application for CarTrawler and it's microsites (HolidayAutos etc).
+User account and loyalty application for CarTrawler and it's microsites ([HolidayAutos](https://www.holidayautos.com/), [Argus Car Hire](https://www.arguscarhire.com/)).
 
 Highlights include:
 
 - serverless architecture
-- functional lambda functions
+- functional AWS lambdas
 - integration with multiple microsites
 
 
