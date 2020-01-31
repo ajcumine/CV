@@ -3,17 +3,20 @@
 ajcumine@gmail.com - +44 779 172199
 
 ## Skills
-The following is a list of technologies I have used professionally:
+The following is a list of technologies and methodolgies I have used professionally:
 
-Ansible, AWS, Azure, Babel, Buildkite, CircleCI, CSS, CSS-in-JS, Docker, DynamoDB, Elasticsearch, Enzyme, ES6, Flow, Google Cloud Platform, Gulp, Heroku, HTML, Javascript, Jest, Kubernetes, Lodash, Mocha, Mori, Node, PactJS, PostgreSQL, Prettier, Puppeteer, Rails, Ramda, React, Redis, Redux, Rspec, Rubocop, Ruby, Sass, Serverless, Teamcity, Terraform, Thin, Typescript, TSLint, Vagrant, Webpack, Yarn.
+Ansible, AWS, Azure, Babel, Buildkite, CircleCI, CSS, CSS-in-JS, Docker, DynamoDB, Elasticsearch, Enzyme, ES6, Flow, Google Cloud Platform, Gulp, Heroku, HTML, JavaScript, Jest, Kubernetes, Lodash, Mocha, Mori, Node, PactJS, PostgreSQL, Prettier, Puppeteer, Rails, Ramda, React, Redis, Redux, Rspec, Rubocop, Ruby, Sass, Serverless, Teamcity, Terraform, Thin, Typescript, TSLint, Vagrant, Webpack, Yarn.
+
+Agile, Cross-functional teams, Data driven design/development, Kanban, Microservice architecture, Mobile first design/development, Monorepository architecture, Scrum, Software as a Service.
+
 
 ## Work Experience
 
-### Red Badger Consulting Ltd, June 2014 - present.
+### [Red Badger Consulting Ltd](https://red-badger.com/), June 2014 - present.
 
 #### BSkyB - Sky Help, August 2014 - November 2014.
 
-- Ruby, Rails, Rspec, Redis, React, Livescript, Ansible, Vagrant, CircleCI, Heroku.
+- Ruby, Rails, Rspec, Redis, React, LiveScript, Ansible, Vagrant, CircleCI, Heroku.
 
 New build of help site for help.sky.com focussing on decreasing customer call centre calls through easier navigation and search of existing help topics.
 
@@ -24,13 +27,12 @@ Highlights include:
 
 #### Fortnum & Mason - Food Awards, November 2014 - December 2014, November 2015 - December 2015.
 
-- Livescript, React, Gulp, Docker, PostgreSQL, AWS, Elasticbeanstalk, CircleCI.
+- LiveScript, React, Gulp, Docker, PostgreSQL, AWS, Elasticbeanstalk, CircleCI.
 
-Microsite for Fortnum & Mason's annual Food and Drink awards. Both years projects where built under limited time and cost constraints, requiring a speedy build but still enkeeping with the quality expected from a Fortnum & Mason experience.
+Microsite for Fortnum & Mason's annual Food and Drink awards. Both years projects where built under limited time and cost constraints, requiring a speedy build but still in keeping with the quality expected from a Fortnum & Mason experience. Final work was done to integrate this system into the main Fortnum & Mason website.
 
 #### [Fortnum & Mason - Ecommerce](https://www.fortnumandmason.com/), December 2014 - June 2015, August 2016 - March 2017, July 2018 - October 2018.
-
-- Ruby, Rails, React, Redux, Livescript, Flow, ES6, Redis, PostgreSQL, Spree Commerce, Elasticsearch, AWS, CircleCI, Buildkite, Terraform.
+- Ruby, Rails, React, Redux, JavaScipt, LiveScript, Flow, ES6, Redis, PostgreSQL, Spree Commerce, Elasticsearch, AWS, CircleCI, Buildkite, Terraform.
 
 Ecommerce platform for [Fortnum & Mason](https://www.fortnumandmason.com/). New build of Fortnum & Mason's online shopping experience which provided year on year online sales increases. Direct integration into Fortnum's Microsoft Dynamics AX and later conversion to D365 CRM systems.
 
@@ -45,7 +47,7 @@ Highlights include:
 
 #### Red Badger - Badger Academy, July 2015 - August 2015.
 
-- Ruby, Rails, Thin, PostgreSQL, Rubocop, Rspec, Node, React, Webpack, Babel, ESLint, Sass, Mocha, Chai, CircleCI, Heroku.
+- Ruby, Rails, Thin, PostgreSQL, Rubocop, Rspec, Node, JavaScript, React, Webpack, Babel, ESLint, Sass, Mocha, Chai, CircleCI, Heroku.
 
 6 week project teaching interns how to develop a product in a modern technology company. Topics taught included, agile/kanban methodolgies and processes, test-driven development, mobile first design, accessibility requirements and browser support.
 
@@ -63,13 +65,13 @@ Microsite for Fortnum & Mason's restaurant [45 Jermyn Street](https://45jermynst
 
 #### CarTrawler - CMS, December 2015 - July 2016.
 
-- Docker, CircleCI, Node, Webpack, React, Redux, Flow, Babel, ESLint, Mocha.
+- Docker, CircleCI, Node, JavaScript, Webpack, React, Redux, Flow, Babel, ESLint, Mocha.
 
 Content management system (CMS) for CarTrawler, managing content for both [HolidayAutos](https://www.holidayautos.com/) and [Argus Car Hire](https://www.arguscarhire.com/).
 
 #### CarTrawler - My Account, June 2016 - September 2016.
 
-- Serverless, AWS, AWS Lambda, DynamoDB, Auth0, Elasticsearch, Logstash, CirlceCI Node, Babel, Webpack, Flow, Mori, React, Redux, Mocha, Enzyme, Chai.
+- Serverless, AWS, AWS Lambda, DynamoDB, Auth0, Elasticsearch, Logstash, CirlceCI, Node, JavaScript, Babel, Webpack, Flow, Mori, React, Redux, Mocha, Enzyme, Chai.
 
 User account and loyalty application for CarTrawler and it's microsites ([HolidayAutos](https://www.holidayautos.com/), [Argus Car Hire](https://www.arguscarhire.com/)).
 
@@ -82,7 +84,7 @@ Highlights include:
 
 #### [ASOS - My Account](https://www.asos.com/), April 2017 - September 2017.
 
-- Node, React, Redux, Webpack, Babel, PactJS, Teamcity, Azure.
+- Node, JavaScript, React, Redux, Webpack, Babel, PactJS, Teamcity, Azure.
 
 My account application for ASOS.com to integrate into the existing .NET platform.
 
@@ -96,12 +98,12 @@ Highlights include:
 
 #### Santander - International Payments, September 2017 - December 2017.
 
-- Node, Yarn, Webpack, Babel, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Puppeteer, Jenkins, Docker, Openshift, Monorepo.
+- Node, JavaScript, Yarn, Webpack, Babel, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Puppeteer, Jenkins, Docker, Openshift, Monorepo.
 
 Online International Payments application for Santander UK. Business structure changes ended up cancelling this project just as it was starting to deliver value, however great steps were made in introducing a modern node/javascript application to the client business. A focus on user experience, accessibility and cross functional, agile teams was championed across the project. This helped Red Badger secure more work with Santander as an organisation.
 
 #### [Fidelity - Institutional](https://www.fidelityinstitutional.com/en/), December 2017 - February 2018.
-- Node, Yarn, Webpack, Babel, Lodash, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Serverless, AWS, CircleCI, Superdesk.
+- Node, JavaScript, Yarn, Webpack, Babel, Lodash, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Serverless, AWS, CircleCI, Superdesk.
 
 Institutional investor online platform for marketing and sales of Fidelity Institutional investing. Complete build of a
 
