@@ -298,6 +298,18 @@
 
 ### October
 
+- PagoFx
+
 ### November
 
+- PagoFx
+
 ### December
+
+- PagoFx
+
+## 2020
+
+### January
+
+- PagoFx

@@ -75,7 +75,7 @@ Highlights include:
 - integration with multiple microsites
 
 
-#### ASOS - My Account, April 2017 - September 2017.
+#### [ASOS - My Account](https://www.asos.com/), April 2017 - September 2017.
 
 - Node, React, Redux, Webpack, Babel, PactJS, Teamcity, Azure.
 
@@ -95,8 +95,10 @@ Highlights include:
 
 Online International Payments application for Santander UK. Business structure changes ended up cancelling this project just as it was starting to deliver value, however great steps were made in introducing a modern node/javascript application to the client business. A focus on user experience, accessibility and cross functional, agile teams was championed across the project. This helped Red Badger secure more work with Santander as an organisation.
 
-#### Fidelity - Institutional, December 2017 - February 2018.
+#### [Fidelity - Institutional](https://www.fidelityinstitutional.com/en/), December 2017 - February 2018.
 - Node, Yarn, Webpack, Babel, Lodash, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Serverless, AWS, CircleCI, Superdesk.
+
+Institutional investor online platform for marketing and sales of Fidelity Institutional investing. Complete build of a
 
 #### Santander - Open Banking, February 2018 - May 2018.
 
