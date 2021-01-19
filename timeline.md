@@ -298,6 +298,69 @@
 
 ### October
 
+- PagoFx
+
 ### November
 
+- PagoFx
+
 ### December
+
+- PagoFx
+
+## 2020
+
+### January
+
+- PagoFx
+
+### February
+
+- PagoFx
+
+### March
+
+- PagoFx
+- Leave RB
+
+### April
+
+- No permanent role
+
+### May
+
+- No permanent role
+
+### June
+
+- No permanent role
+
+### July
+
+- No permanent role
+
+### August
+
+- No permanent role
+
+### September
+
+- No permanent role
+
+### October
+
+- No permanent role
+
+### November
+
+- No permanent role
+
+### December
+
+- No permanent role
+
+## 2021
+
+### January
+
+- No permanent role
