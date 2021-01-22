@@ -82,15 +82,7 @@ Highlights include:
 - functional AWS lambdas
 - integration with multiple microsites
 
-<<<<<<< HEAD
-
-#### ASOS - My Account, April 2017 - September 2017.
-
-=======
-
 #### [ASOS - My Account](https://www.asos.com/), April 2017 - September 2017.
-
-> > > > > > > a419b1068d2847adafc1476d26fad0149b7a97f7
 
 - Node, JavaScript, React, Redux, Webpack, Babel, PactJS, Teamcity, Azure.
 
@@ -152,19 +144,20 @@ Docker workshop focussing on compose and swarm docker functionality to scale app
 
 #### Machine Learning
 
-ruby machine learning
+[Markov Chain generator built with Ruby](https://github.com/ajcumine/ruby-markov)
 
 #### Elixir
 
-elixir machine learning
+[Markov Chain generator built with Elixir](https://github.com/ajcumine/elixir-markov)
 
 #### Elm
 
-pokelm
+[pokelm](https://github.com/ajcumine/pokelm)
+A website leveraging the [pokeapi](https://pokeapi.co/) built with Elm
 
 #### Line Management
 
-Line Management - Aspire
+Line Management Training - Aspire Leadership
 
 Red Badger Line Management Working Group
 

@@ -300,7 +300,6 @@
 
 - PagoFx
 
-<<<<<<< HEAD
 ### November
 
 - PagoFx
@@ -365,18 +364,3 @@
 ### January
 
 - No permanent role
-=======
-### November
-
-- PagoFx
-
-### December
-
-- PagoFx
-
-## 2020
-
-### January
-
-- PagoFx
->>>>>>> a419b1068d2847adafc1476d26fad0149b7a97f7
