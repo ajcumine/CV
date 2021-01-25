@@ -1,6 +1,6 @@
 # Andrew Cumine - Senior Software Engineer
 
-ajcumine@gmail.com - +44 779 172199
+ajcumine@gmail.com | [ajcumine.com](https://ajcumine.com) | +44 779 172199
 
 ## Skills
 
@@ -106,17 +106,37 @@ Online International Payments application for Santander UK. Business structure c
 
 - Node, JavaScript, Yarn, Webpack, Babel, Lodash, React, Redux, Prettier, ESLint, Flow, Enzyme, Jest, Serverless, AWS, CircleCI, Superdesk.
 
-Institutional investor online platform for marketing and sales of Fidelity Institutional investing. Complete build of a
+Institutional investor online platform for marketing and sales of Fidelity Institutional investing. Complete build of a CMS driven Gatsby website.
 
 #### Santander - Open Banking, February 2018 - May 2018.
 
-#### Red Badger - Website, June 2018 - July 2018.
+- Typescript, React, Redux, JWT, ESlint, Jest, Puppeteer, Docker, Jenkins
+
+Open Banking application mobile application for Corporate Clients integrating with existing banking infrastructure and APIs.
+
+#### [Red Badger](https://red-badger.com) - Website, June 2018 - July 2018.
+
+- React, Webpack, Jest, CircleCI
+
+Maintanance of Red Bagder's own website. A large amount of technical debt had built up and needed addressing. Updating basic development tooling such as ESLint and Jest from older standards was the main concern.
 
 #### Fidelity - Outlook, January 2019 - March 2019.
 
-#### PagoFx - Operations, July 2019 - present.
+- Typescript, React, Gatsby, Terraform, AWS
 
-- Typescript, React, Redux, Docker, PostgreSQL, Kubernetes, Terraform, Buildkite, Google Cloud Platform, GitHub, Jira, Confluence, Monorepo.
+Proof of concept static site for new, more accessible content for Fidelity investors directly from Fidelity market expert.
+
+#### [PagoFx](https://pagofx.com/) - Operations, July 2019 - March 2020.
+
+- Typescript, React, Redux, PubSub, Docker, PostgreSQL, Kubernetes, Terraform, Buildkite, Google Cloud Platform, GitHub, Jira, Confluence, Monorepo.
+
+Online, iOS, and Android international payments platform PagoFx by Santander. Operations team were responsible for the payment processing, foreign exchange, financial safeguarding, and accounting microservices. Use of PubSub messaging systems enabled high levels of reliability and excellent error tracking across the platform.
+
+Highlights include:
+
+- payments and foreign exchange PubSub executors allowing for detailed tracking of all payments and financial account transactions
+- recorded double entry accounting system for all financial transfers
+- comprehensive error reporting throughout payment and operations platforms
 
 ## Education
 
@@ -157,13 +177,13 @@ A website leveraging the [pokeapi](https://pokeapi.co/) built with Elm
 
 #### Line Management
 
-Line Management Training - Aspire Leadership
+[Line Management Training - Aspire Leadership](https://www.aspire-leadership.co.uk/management-skills/line-management-training/)
 
 Red Badger Line Management Working Group
 
 #### Mentoring
 
-Effective Mentoring - The Centre
+[Effective Mentoring - The Centre](https://www.the-centre.co.uk/courses/detail/effective_mentoring)
 
 Red Badger Academy
 
