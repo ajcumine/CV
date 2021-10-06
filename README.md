@@ -1,4 +1,4 @@
-# Andrew Cumine - Senior Software Engineer
+# Andrew Cumine - Engineering Manager / Senior Software Engineer
 
 ajcumine@gmail.com | [ajcumine.com](https://ajcumine.com) | +44 7789 172199
 
@@ -6,11 +6,29 @@ ajcumine@gmail.com | [ajcumine.com](https://ajcumine.com) | +44 7789 172199
 
 The following is a list of technologies and methodolgies I have used professionally:
 
-Ansible, AWS, Azure, Babel, Buildkite, CircleCI, CSS, CSS-in-JS, Docker, DynamoDB, Elasticsearch, Enzyme, ES6, Flow, Google Cloud Platform, Gulp, Heroku, HTML, JavaScript, Jest, Kubernetes, Lodash, Mocha, Mori, Node, PactJS, PostgreSQL, Prettier, Puppeteer, Rails, Ramda, React, Redis, Redux, Rspec, Rubocop, Ruby, Sass, Serverless, Teamcity, Terraform, Thin, Typescript, TSLint, Vagrant, Webpack, Yarn.
+Ansible, AWS, Azure, Babel, Buildkite, CircleCI, CSS, CSS-in-JS, Docker, DynamoDB, Elasticsearch, Enzyme, ES6, Flow, Google Cloud Platform, Gulp, Heroku, HTML, JavaScript, Jest, Kubernetes, Lodash, Mocha, MongoDB Mori, Node, PactJS, Papertrail, PostgreSQL, Prettier, Puppeteer, Rails, Ramda, React, React Native, Redis, Redux, Rspec, Rubocop, Ruby, Sass, Serverless, Teamcity, Terraform, Thin, Typescript, TSLint, Vagrant, Webpack, Yarn.
 
-Agile, Cross-functional teams, Data driven design/development, Kanban, Microservice architecture, Mobile first design/development, Monorepository architecture, Scrum, Software as a Service.
+Agile, Cross-functional teams, Data driven design/development, Kanban, Microservice architecture, Mobile first design/development, Monorepository architecture, North Star Metric, Objectives and Key Results, Scrum, Software as a Service.
 
 ## Work Experience
+
+### [Second Nature](https://secondnature.io/), March 2021 - present.
+
+Behavioural change and weight loss app.
+
+- Typescript, React, Redux, React Native, MongoDB, socket.io, Papertrail, Sentry, App Center
+
+Highlights and key responisbilties include:
+
+- Implementing a level based logging system for alerting
+- Auditing existing applications for performance improvements aiming to reduce startup and runtime warnings
+- Driving for kanban processes and team process and colaboration improvements
+- Creating a test environment for entire system with data that self refreshed to maintain test account state
+- Testing and deploying the production iOS and Android apps to production
+
+#### [Startup Core Strengths](https://www.startupcorestrengths.com/), September 2021.
+
+A growth course for startups focussing on delivering customer value via metric driven processes of rapid experimentation.
 
 ### [Red Badger Consulting Ltd](https://red-badger.com/), June 2014 - March 2020.
 
@@ -191,9 +209,9 @@ Red Badger Mentoring Initiative
 
 ## Interests
 
-- Hockey
-- Video games
-- Skiing
-- Table top games
 - Cooking
 - Football
+- Hockey
+- Skiing
+- Table top games
+- Video games

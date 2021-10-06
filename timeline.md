@@ -364,3 +364,39 @@
 ### January
 
 - No permanent role
+
+### February
+
+- No permanent role
+
+### March
+
+- Join Second Nature
+
+### April
+
+- Second Nature
+
+### May
+
+- Second Nature
+
+### June
+
+- Second Nature
+
+### July
+
+- Second Nature
+
+### August
+
+- Second Nature
+
+### September
+
+- Second Nature
+
+### October
+
+- Second Nature
