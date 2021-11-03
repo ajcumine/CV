@@ -25,6 +25,8 @@ Highlights and key responisbilties include:
 - Driving for kanban processes and team process and colaboration improvements
 - Creating a test environment for entire system with data that self refreshed to maintain test account state
 - Testing and deploying the production iOS and Android apps to production
+- Implementing a bug triage process that resulted in a 50% drop in calls to customer support over a 4 week period
+- Reducing CI workflow time from 15 minutes to under 10 minutes
 
 #### [Startup Core Strengths](https://www.startupcorestrengths.com/), September 2021.
 
