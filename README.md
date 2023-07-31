@@ -1,4 +1,4 @@
-# Andrew Cumine - Engineering Manager / Senior Software Engineer
+# Andrew Cumine - Senior Engineering Manager / Senior Software Engineer
 
 ajcumine@gmail.com | [ajcumine.com](https://ajcumine.com) | +44 7789 172199
 
@@ -20,9 +20,12 @@ React Native iOS and Android application focussing on behavioural change and edu
 
 Highlights and key responisbilties include:
 
+- Managing a cross functional team to deliver high quality product and technical feature
+- Managing estimates of project work, managing expectations across and around the team, and delivering to those timelines
+- Working with third party vendors to deliver product features
 - Implementing a level based logging system for alerting
 - Auditing existing applications for performance improvements aiming to reduce startup and runtime warnings
-- Driving for kanban processes, team process, and collaboration improvements
+- Driving for Agile software development through kanban processes, team process, and collaboration improvements
 - Creating a test environment for entire system with data that self refreshed to maintain test account state
 - Testing and deploying the production iOS and Android apps to production
 - Implementing a bug triage process that resulted in a 50% drop in calls to customer support over a 4 week period
@@ -30,6 +33,7 @@ Highlights and key responisbilties include:
 - Driving improvement in platform quality
 - Defining and implementing a bug triage and post-mortem process for use across company
 - Updating an streamlining an iOS and Android App release process for use across company
+- Delivering a pharmacy approved, prescription medication service as part of the product offering
 
 #### [Startup Core Strengths](https://www.startupcorestrengths.com/), September 2021.
 

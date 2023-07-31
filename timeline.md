@@ -372,6 +372,7 @@
 ### March
 
 - Join Second Nature
+- Engineering Manager Role
 
 ### April
 
@@ -398,5 +399,98 @@
 - Second Nature
 
 ### October
+
+- Second Nature
+
+### November
+
+- Second Nature
+
+### December
+
+- Second Nature
+
+## 2022
+
+### January
+
+- Second Nature
+
+### February
+
+- Second Nature
+
+### March
+
+- Second Nature
+
+### April
+
+- Second Nature
+
+### May
+
+- Second Nature
+
+### June
+
+- Second Nature
+
+### July
+
+- Second Nature
+
+### August
+
+- Second Nature
+
+### September
+
+- Second Nature
+
+### October
+
+- Second Nature
+
+### November
+
+- Second Nature
+
+### December
+
+- Second Nature
+
+## 2023
+
+### January
+
+- Second Nature
+
+### February
+
+- Second Nature
+
+### March
+
+- Second Nature
+
+### April
+
+- Second Nature
+
+### May
+
+- Second Nature
+- Promotion to Senior Engineering Manager
+
+### June
+
+- Second Nature
+
+### July
+
+- Second Nature
+
+### August
 
 - Second Nature
