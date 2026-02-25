@@ -1,0 +1,13 @@
+body {
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+h1 { font-size: 20px; margin-bottom: 4px; }
+h2 { font-size: 16px; margin-top: 16px; margin-bottom: 4px; }
+h3 { font-size: 14px; margin-top: 12px; margin-bottom: 4px; }
+h4 { font-size: 12px; margin-top: 8px; margin-bottom: 2px; }
+
+ul { margin-top: 4px; margin-bottom: 4px; }
+li { margin-bottom: 2px; }
+p { margin-top: 4px; margin-bottom: 4px; }
